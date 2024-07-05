@@ -63,7 +63,7 @@ User : postgres.axwpbvulqapkfdafulgk
 
 ## Business Dashboard
 
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
+[Link Dashboard](http://localhost:3000/public/dashboard/43d515a8-38cf-467b-88b3-017cdbdae7e8)
 
 ## Conclusion
 
