@@ -30,7 +30,7 @@ Membuat business dashboard untuk membantu departemen HR dalam memahami data dan 
 Sumber data: [Jaya Jaya Maju](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 
 Setup environment:
-- Google COlab
+- Google Collab
 
 ```
 import numpy
