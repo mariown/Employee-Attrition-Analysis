@@ -62,8 +62,97 @@ User : postgres.axwpbvulqapkfdafulgk
 ```
 
 ## Business Dashboard
+**Full Dashboard**
+
+![](https://github.com/mariown/Belajar-Penerapan-Data-Science/blob/main/Full%20Dashboard.jpg)
+
+**Attrition Filtered Dashboard**
+![](https://github.com/mariown/Belajar-Penerapan-Data-Science/blob/main/Attrition%20Only.jpg)
+
+### Interpretation :
+
+#### **Analisis Dashboard Attrition Karyawan**
+
+
+
+Dashboard ini menampilkan analisis atribut karyawan di perusahaan, dengan fokus pada faktor-faktor yang mempengaruhi tingkat attrisi atau pengunduran diri karyawan. Berikut adalah interpretasi dari setiap bagian dashboard:
+
+**Key Metrics**
+
+- **Total Employee:** 179
+- **Attrition:** 16.92%
+- **Average Monthly Income:** $4.9K
+- **Average of Employees:** 33
+- **Average of Total Working Years:** 8
+
+**Persentase Karyawan Berdasarkan Level Jabatan**
+
+Mayoritas karyawan berada di level jabatan rendah.
+
+**Jumlah Karyawan Berdasarkan Perjalanan Bisnis**
+
+Karyawan yang tidak melakukan perjalanan bisnis dan yang sering melakukan perjalanan bisnis hampir seimbang.
+
+**Distribusi Job Involvement**
+
+Mayoritas karyawan memiliki tingkat keterlibatan kerja yang tinggi.
+
+**Jarak Tempuh Karyawan ke Tempat Kerja**
+
+Sebagian besar karyawan tinggal dalam jarak 10-20 km dari tempat kerja.
+
+**Tingkat Kepuasan Lingkungan Kerja**
+
+Tingkat kepuasan lingkungan kerja bervariasi dengan mayoritas karyawan memiliki kepuasan tinggi.
+
+**Distribusi Stock Option Level**
+
+Sebagian besar karyawan tidak menerima stock options.
+
+**Tingkat Keseimbangan Kerja-Hidup**
+
+Sebagian besar karyawan menilai keseimbangan kerja-hidup mereka sebagai baik.
+
+**Tingkat Kepuasan Pekerjaan**
+
+Mayoritas karyawan memiliki tingkat kepuasan pekerjaan yang tinggi atau sangat tinggi.
+
+**Distribusi Masa Kerja Karyawan**
+
+Banyak karyawan yang bekerja kurang dari 5 tahun, namun ada juga yang bekerja lebih dari 10 tahun.
+
+**Masa Kerja Karyawan dengan Manajer**
+
+Sebagian besar karyawan bekerja dengan manajer mereka selama 0-5 tahun.
+
+**Variabel Utama yang Mempengaruhi Status Attrisi**
+
+Faktor-faktor penting yang mempengaruhi attrisi termasuk jarak dari rumah, umur, dan kepuasan lingkungan kerja.
+
+### Insight Rangkuman
+
+1. **Konsentrasi Karyawan di Level Rendah:** Mayoritas karyawan berada di level jabatan rendah, menunjukkan fokus pada peran operasional. Perusahaan perlu mengevaluasi jalur pengembangan karir untuk memastikan adanya peluang peningkatan.
+
+2. **Perjalanan Bisnis:** Karyawan yang sering bepergian memiliki risiko lebih tinggi terhadap attrisi. Mengurangi frekuensi perjalanan atau menawarkan insentif dapat meningkatkan kepuasan dan retensi.
+
+3. **Keterlibatan Kerja yang Tinggi:** Tingkat keterlibatan kerja yang tinggi menunjukkan komitmen yang kuat, namun penting untuk memantau tanda-tanda burnout dan memastikan keseimbangan kerja-hidup.
+
+4. **Jarak Tempuh:** Jarak tempuh yang panjang dapat meningkatkan ketidakpuasan karyawan. Pertimbangkan kebijakan kerja fleksibel atau dari rumah untuk mengurangi stres perjalanan.
+
+5. **Kepuasan Lingkungan Kerja:** Kepuasan yang tinggi perlu dipertahankan melalui program peningkatan lingkungan kerja.
+
+6. **Stock Options:** Menawarkan stock options dapat menjadi insentif kuat untuk retensi, terutama untuk posisi strategis.
+
+7. **Keseimbangan Kerja-Hidup:** Menjaga keseimbangan kerja-hidup adalah kunci retensi jangka panjang. Perusahaan perlu terus mengembangkan program pendukung keseimbangan ini.
+
+8. **Kepuasan Pekerjaan:** Tingkat kepuasan kerja yang tinggi berkontribusi pada retensi yang lebih baik. Program-program yang ada perlu dipertahankan dan ditingkatkan.
+
+9. **Masa Kerja:** Program onboarding yang lebih baik dan mentoring dapat meningkatkan retensi awal karyawan.
+
+10. **Masa Kerja dengan Manajer:** Rotasi manajer yang tinggi dapat mempengaruhi stabilitas tim. Program pengembangan kepemimpinan diperlukan untuk memastikan manajer tetap berada dalam posisi lebih lama dan membangun hubungan baik dengan tim.
 
 [Link Dashboard](http://localhost:3000/public/dashboard/43d515a8-38cf-467b-88b3-017cdbdae7e8)
+
 
 ## Conclusion
 
