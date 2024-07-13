@@ -151,7 +151,7 @@ Faktor-faktor penting yang mempengaruhi attrisi termasuk jarak dari rumah, umur,
 
 10. **Masa Kerja dengan Manajer:** Rotasi manajer yang tinggi dapat mempengaruhi stabilitas tim. Program pengembangan kepemimpinan diperlukan untuk memastikan manajer tetap berada dalam posisi lebih lama dan membangun hubungan baik dengan tim.
 
-[Link Dashboard](http://localhost:3000/public/dashboard/43d515a8-38cf-467b-88b3-017cdbdae7e8)
+[Dashboard](http://localhost:3000/public/dashboard/43d515a8-38cf-467b-88b3-017cdbdae7e8) (hanya bisa dibuka ketika localhost dijalankan)
 
 
 ## Conclusion
@@ -241,7 +241,8 @@ Tabel koefisien regresi logistik ini memberikan gambaran tentang berbagai faktor
 - Status Pernikahan
 - Level Stock Option
 - Keseimbangan Hidup dan Kerja
-[Google Colab](https://drive.google.com/file/d/1xfoI8ctUu-dIkjtWhk1OcJPJ2-R21iLw/view?usp=sharing)
+
+[Hasil Analisis](https://drive.google.com/file/d/1xfoI8ctUu-dIkjtWhk1OcJPJ2-R21iLw/view?usp=sharing)
 
 ## Rekomendasi Action Items
 - Meninjau kembali beban kerja dan memastikan distribusi tugas yang adil agar work life balnce karyawan terjaga.
