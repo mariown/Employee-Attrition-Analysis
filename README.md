@@ -241,7 +241,7 @@ Tabel koefisien regresi logistik ini memberikan gambaran tentang berbagai faktor
 - Status Pernikahan
 - Level Stock Option
 - Keseimbangan Hidup dan Kerja
-
+[Google Colab](https://drive.google.com/file/d/1xfoI8ctUu-dIkjtWhk1OcJPJ2-R21iLw/view?usp=sharing)
 
 ## Rekomendasi Action Items
 - Meninjau kembali beban kerja dan memastikan distribusi tugas yang adil agar work life balnce karyawan terjaga.
