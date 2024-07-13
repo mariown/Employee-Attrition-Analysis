@@ -1,4 +1,4 @@
-# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
+# Employee Attrition Analyisis
 
 ## Business Understanding
 
@@ -71,7 +71,7 @@ User : postgres.axwpbvulqapkfdafulgk
 
 ### Interpretation :
 
-#### **Analisis Dashboard Attrition Karyawan**
+#### **Analisis Dashboard Employee Attrition**
 
 
 
@@ -156,7 +156,7 @@ Faktor-faktor penting yang mempengaruhi attrisi termasuk jarak dari rumah, umur,
 
 ## Conclusion
 
-#### Interpretasi Koefisien Regresi Logistik: HR Analytics
+#### Interpretasi Koefisien Regresi Logistik
 
 Berdasarkan grafik di atas, dapat diinterpretasikan hubungan antara berbagai faktor karyawan dengan kemungkinan keluarnya karyawan dari perusahaan.
 
