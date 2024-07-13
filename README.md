@@ -67,7 +67,7 @@ User : postgres.axwpbvulqapkfdafulgk
 ![](https://github.com/mariown/Belajar-Penerapan-Data-Science/blob/main/Full%20Dashboard.jpg)
 
 **Attrition Filtered Dashboard**
-![](https://github.com/mariown/Belajar-Penerapan-Data-Science/blob/main/Attrition%20Only.jpg)
+![](https://github.com/mariown/Belajar-Penerapan-Data-Science/blob/main/Attrition%20Filtered)
 
 ### Interpretation :
 
