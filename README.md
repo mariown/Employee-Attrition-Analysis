@@ -64,7 +64,7 @@ User : postgres.axwpbvulqapkfdafulgk
 ## Business Dashboard
 **Full Dashboard**
 
-![](https://github.com/mariown/Belajar-Penerapan-Data-Science/blob/main/Full%20Dashboard.jpg)
+![](https://github.com/mariown/Belajar-Penerapan-Data-Science/blob/main/Full%20Dashboard)
 
 **Attrition Filtered Dashboard**
 ![](https://github.com/mariown/Belajar-Penerapan-Data-Science/blob/main/Attrition%20Filtered)
