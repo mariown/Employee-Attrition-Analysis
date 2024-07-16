@@ -242,6 +242,7 @@ Tabel koefisien regresi logistik ini memberikan gambaran tentang berbagai faktor
 - Level Stock Option
 - Keseimbangan Hidup dan Kerja
 
+**Hasil Analisis**
 [Hasil Analisis](https://drive.google.com/file/d/1xfoI8ctUu-dIkjtWhk1OcJPJ2-R21iLw/view?usp=sharing)
 
 ## Rekomendasi Action Items
