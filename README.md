@@ -162,8 +162,8 @@ Berdasarkan grafik di atas, dapat diinterpretasikan hubungan antara berbagai fak
 
 **Variabel Dependen:** Attrition (0 = Menetap, 1 = Keluar)
 
-- **Koefisien Positif:** Meningkatkan peluang attrition (keluar)
-- **Koefisien Negatif:** Menurunkan peluang attrition (tetap)
+- **Koefisien Positif:** Meningkatkan peluang attrition (Keluar)
+- **Koefisien Negatif:** Menurunkan peluang attrition (Menetap)
 
 #### Interpretasi per Variabel
 
@@ -246,7 +246,7 @@ Tabel koefisien regresi logistik ini memberikan gambaran tentang berbagai faktor
 [Hasil Analisis](https://drive.google.com/file/d/1xfoI8ctUu-dIkjtWhk1OcJPJ2-R21iLw/view?usp=sharing)
 
 ## Rekomendasi Action Items
-- Meninjau kembali beban kerja dan memastikan distribusi tugas yang adil agar work life balnce karyawan terjaga.
+- Meninjau kembali beban kerja dan memastikan distribusi tugas yang adil agar work life balance karyawan terjaga.
 - Meningkatkan kondisi lingkungan kerja fisik, seperti ruang kerja yang nyaman, fasilitas rekreasi, dan area istirahat yang memadai.
 - Mendorong komunikasi yang terbuka dan transparan antara manajer dan karyawan.
 - Melakukan peninjauan kebijakan stock option saat ini dan membandingkannya dengan praktik terbaik di industri untuk memastikan daya saing.
